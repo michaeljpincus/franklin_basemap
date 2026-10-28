@@ -832,7 +832,7 @@
       "id": "extra-country-labels",
       "type": "symbol",
       "source": "extra-country-labels",
-      "minzoom": 2,
+      "minzoom": 4,
       "maxzoom": 8,
       "layout": {
         "text-field": ["get", "name"],
